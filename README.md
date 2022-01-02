@@ -1,0 +1,1 @@
+After applying EDA in this project, Vehicle Price Estimation was made by applying 'Random Forest', 'SVM', 'XGBoost', 'Light GBM', 'Decision Trees', 'KNN', 'Logistic Regression' algorithms. Random Search and Grid Search were also used in this process. It was determined that the Random Forest algorithm made the best estimate.
